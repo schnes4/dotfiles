@@ -1,0 +1,27 @@
+.Xauthority
+.bash_*
+.cache
+.gnome
+.icons
+.local
+.viminfo
+.steam*
+.config/chromium/
+.config/dconf/
+.config/fontconfig/
+.config/gtk-*/
+.config/menus/
+.config/mimeapps.list/
+.config/qt5ct/
+.config/spotify/
+.config/mimeapps.list
+.fonts/
+.nv/
+.pki/
+.ssh/
+documents
+.config/QtProject.conf
+.config/Sinew Software Systems/
+.config/borg/
+.config/sublime-text-3/
+projects/
