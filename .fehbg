@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/andreas/pictures/wallpapers/planet_express.jpg' 
